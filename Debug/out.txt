@@ -1,0 +1,16 @@
+3  numbers of lines
+3  numbers of colomns
+300 -  P value
+10 - E value
+
+Inputed Matrix
+
+   40   60  100
+   90   80   70
+   99   30  200
+
+average of 1 line is 50
+
+average of 2 line is 34
+
+average of 3 line is 32
