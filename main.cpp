@@ -56,5 +56,13 @@ int main() {
         output_file <<"abs(A[i][j]) + E < P" << endl;
     }
 
+    input_file.close();
+    output_file.close();
+
+    for (int k = 0; k < n; k++) {
+        delete[] A[k];
+    }
+    delete[] A;
+
     return 0;
 }
